@@ -1,0 +1,17 @@
+nav ul li {
+    padding: 0 10px 0 10px;
+}
+
+.navbar { 
+    padding: 15px;
+    height: 100px;
+}
+
+.card {
+    align-self: center;
+    position: center;
+    left: 500px;
+}
+.card-body {
+    height: 200px;
+}
